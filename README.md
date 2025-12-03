@@ -1,4 +1,4 @@
-# Hi, I'm [Jonathan Perez-Castro] 👋
+# Hi, I'm Jonathan Perez-Castro 👋
 
 **Aspiring Data Engineer** building data warehouses and ETL pipelines that transform raw data into business insights.
 
