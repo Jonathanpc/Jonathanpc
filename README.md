@@ -13,7 +13,7 @@
 🚗 **[Used Car Price Predictor](https://github.com/Jonathanpc/used-car-price-predictor)** - End-to-end ML pipeline processing 4,855+ listings with automated ingestion, feature engineering, and predictive modeling
 
 ## Let's Connect
-📫 [your.email@example.com](mailto:yeriel1322@gmail.com) | 💼 [LinkedIn](www.linkedin.com/in/jonathan-pc15)
+📫 [Email](mailto:yeriel1322@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-pc15)
 
 ---
 
