@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm [Jonathan Perez-Castro] 👋
 
-<!--
-**Jonathanpc/Jonathanpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Engineer** building data warehouses and ETL pipelines that transform raw data into business insights.
 
-Here are some ideas to get you started:
+## What I'm Working With
+- **Languages**: SQL, Python
+- **Databases**: MySQL, PostgreSQL
+- **Skills**: ETL Development, Data Modeling, Data Quality
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've Built
+🏗️ **[Multi-Layer Star Schema Data Warehouse](https://github.com/Jonathanpc/SQL-Data-Warehouse-Project.git)** - Bronze/Silver/Gold architecture with automated ETL pipelines, data cleansing, and dimensional modeling for analytics
+
+🚗 **[Used Car Price Predictor](https://github.com/Jonathanpc/used-car-price-predictor)** - End-to-end ML pipeline processing 4,855+ listings with automated ingestion, feature engineering, and predictive modeling
+
+## Let's Connect
+📫 [your.email@example.com](mailto:yeriel1322@gmail.com) | 💼 [LinkedIn](www.linkedin.com/in/jonathan-pc15)
+
+---
+
+💡 *Open to opportunities in data engineering*
