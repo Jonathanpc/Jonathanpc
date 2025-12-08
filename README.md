@@ -8,7 +8,7 @@
 - **Skills**: ETL Development, Data Modeling, Data Quality
 
 ## What I've Built
-🏗️ **[Multi-Layer Star Schema Data Warehouse](https://github.com/Jonathanpc/SQL-Data-Warehouse-Project.git)** - Bronze/Silver/Gold architecture with automated ETL pipelines, data cleansing, and dimensional modeling for analytics
+🏗️ **[Medallion Architecture Sales Data Warehouse & ETL Pipeline](https://github.com/Jonathanpc/SQL-Data-Warehouse-Project.git)** - Bronze/Silver/Gold architecture with automated ETL pipelines, data cleansing, and dimensional modeling for analytics
 
 🚗 **[Used Car Price Predictor](https://github.com/Jonathanpc/used-car-price-predictor)** - End-to-end ML pipeline processing 4,855+ listings with automated ingestion, feature engineering, and predictive modeling
 
