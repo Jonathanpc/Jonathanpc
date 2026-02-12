@@ -14,7 +14,7 @@
 
 🏥 **[Hospital Patient Flow Analytics](https://github.com/Jonathanpc/Hospital-Patient-Flow-Analytics)** - A real-time data engineering pipeline that processes hospital patient flow data using Azure cloud services, implementing a medallion architecture (Bronze, Silver, Gold) for analytics and business intelligence.
 
-🏗️ **[Medallion Architecture Sales Data Warehouse & ETL Pipeline](https://github.com/Jonathanpc/SQL-Data-Warehouse-Project.git)** - Bronze/Silver/Gold architecture with automated ETL pipelines, data cleansing, and dimensional modeling for analytics
+🏗️ **[Medallion Architecture Sales Data Warehouse & ETL Pipeline](https://github.com/Jonathanpc/SQL-Data-Warehouse-Project)** - Bronze/Silver/Gold architecture with automated ETL pipelines, data cleansing, and dimensional modeling for analytics
 
 🚗 **[Used Car Price Predictor](https://github.com/Jonathanpc/used-car-price-predictor)** - End-to-end ML pipeline processing 4,855+ listings with automated ingestion, feature engineering, and predictive modeling
 
