@@ -23,4 +23,4 @@
 
 ---
 
-💡 *Open to opportunities in data engineering*
+💡 *Open to  any entry-level opportunities in data engineering*
